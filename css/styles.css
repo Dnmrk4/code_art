@@ -1,0 +1,40 @@
+html {
+    background: url(../img/coding.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+#note {
+    color: rgb(231, 23, 23);
+    font-family: 'Righteous', cursive;
+}
+.clone {
+    color: rgb(222, 224, 231);
+}
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+    color: #e6dddd;
+}
+.topic {
+    color: #e6dcdc;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+    font-style: inherit;
+}
+.port {
+    font-style: italic;
+    font-size: 13px;
+}
+#bot {
+    color: beige;
+}
+#go {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: beige;
+}
+@media all (min-width: 300px) {
+    html {
+        font-size: 18px;
+    }
+}
